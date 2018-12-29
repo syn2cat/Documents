@@ -26,17 +26,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2876389"
-     inkscape:cx="928.60676"
-     inkscape:cy="510.86531"
+     inkscape:zoom="7.2839856"
+     inkscape:cx="581.48592"
+     inkscape:cy="458.62744"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      showgrid="true"
      units="mm"
-     inkscape:window-width="1536"
-     inkscape:window-height="864"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-width="1950"
+     inkscape:window-height="1076"
+     inkscape:window-x="107"
+     inkscape:window-y="64"
      inkscape:window-maximized="0" />
   <defs
      id="defs4">
@@ -93,8 +93,7 @@
      style="display:inline"
      inkscape:label="Areas"
      id="layer3"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <path
        style="fill:#1fd200;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        d="m 1034.4735,655.23108 61.452,-128.89927 5.4957,0.4996 4.4965,-3.99687 113.4113,78.43871 -39.4691,74.44183 -19.4848,49.46135 -16.9867,70.94457 10.9914,5.99532 -13.989,27.47851 -127.4005,0.49961 19.4848,-160.37467 c 0,0 9.7158,-0.0182 7.9937,-7.49415 -1.3498,-5.86008 -2.8728,-6.61983 -5.9953,-6.99454 z"
@@ -353,6 +352,12 @@
          x="890.02625"
          y="751.40662">22 m^2</tspan>
     </text>
+    <path
+       style="display:inline;fill:#ffaaaf;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       d="m 609.30107,551.14194 -7.14105,70.46675 66.62819,7.34587 -46.33628,-76.296 z"
+       id="path31970-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
   </g>
   <g
      style="display:inline"
@@ -1518,7 +1523,7 @@
          sodipodi:role="line"
          id="tspan3615"
          x="847.39935"
-         y="647.40973"></tspan></text>
+         y="647.40973" /></text>
     <g
        id="g3723"
        transform="matrix(0.48954407,0.87197856,-0.87197856,0.48954407,834.52518,-472.68321)">
@@ -1888,6 +1893,88 @@
            x="881.22321"
            y="710.93225"
            style="font-size:3.75px;line-height:1.25;stroke-width:1.02795625">88,5x44.5</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="285.7944"
+       y="812.65021"
+       id="text4445"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4447"
+         x="285.7944"
+         y="812.65021"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">plan is available on</tspan><tspan
+         sodipodi:role="line"
+         x="285.7944"
+         y="825.15021"
+         id="tspan4449"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">https://github.com/syn2cat/Documents</tspan></text>
+    <g
+       id="g4502"
+       transform="matrix(0.99655718,0.08290829,-0.08290829,0.99655718,58.808472,-48.323263)"
+       inkscape:transform-center-x="3.7067619"
+       inkscape:transform-center-y="2.1965996">
+      <rect
+         transform="matrix(0.99999785,0.00207408,0.00152895,0.99999883,0,0)"
+         style="opacity:0.63133641;fill:#ac9d93;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+         id="rect4116-9-8"
+         width="19.469332"
+         height="12.361208"
+         x="545.39258"
+         y="665.64655" />
+      <text
+         transform="matrix(1.049134,0.00609606,-0.0067101,0.95312809,0,0)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:2.83752394px;line-height:0%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Book';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+         x="527.0108"
+         y="702.15723"
+         id="text4118-3-0"
+         sodipodi:linespacing="0%"><tspan
+           sodipodi:role="line"
+           id="tspan4120-5-4"
+           x="527.0108"
+           y="702.15723"
+           style="font-size:6.86932039px;line-height:1.25;stroke-width:1.06666672">shelf</tspan><tspan
+           id="tspan4500"
+           sodipodi:role="line"
+           x="527.0108"
+           y="707.29236"
+           style="font-size:3.4346602px;line-height:1.25;stroke-width:1.06666672">55x35</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g3601-1"
+       transform="matrix(0.50604023,-0.78832598,0.78832598,0.50604023,-374.73844,1001.7357)"
+       inkscape:transform-center-y="2.1954685"
+       inkscape:transform-center-x="0.73769632">
+      <rect
+         transform="matrix(0.88590961,-0.46385791,0.4656256,0.88498181,0,0)"
+         style="opacity:0.61603376;fill:#323b42;fill-opacity:1;stroke:#005efd;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect3849-1"
+         width="27.130259"
+         height="12.965277"
+         x="379.82687"
+         y="937.20422" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.80000019px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+         x="387.03568"
+         y="930.01489"
+         id="text3851-3"
+         transform="matrix(0.87303048,-0.45828658,0.47138699,0.89798659,0,0)"
+         sodipodi:linespacing="0%"><tspan
+           sodipodi:role="line"
+           id="tspan3853-5"
+           x="387.03568"
+           y="930.01489"
+           style="font-size:5.3375001px;line-height:1.25;font-family:sans-serif;stroke-width:1.06666672">cupboard</tspan><tspan
+           sodipodi:role="line"
+           x="387.03568"
+           y="935.35675"
+           id="tspan3855-9"
+           style="font-size:4.00312519px;line-height:1.25;font-family:sans-serif;stroke-width:1.06666672">72x35</tspan></text>
     </g>
   </g>
 </svg>
